@@ -1,0 +1,3 @@
+[submodule "specification"]
+	path = specification
+	url = git@github.com:deepinthinking/ginga-specification.git
